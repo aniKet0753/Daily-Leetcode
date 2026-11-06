@@ -43,10 +43,6 @@ public class equalArray {
    for(int i=0; i< array.length;i++){
     totalmove+=max -array[i];
    }
-           System.out.println("Minimum moves: " + totalmove);
-
-          System.out.println("final result is "+max);
-
   scan.close();
   }
 
